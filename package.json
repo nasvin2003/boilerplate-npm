@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Nasvin Nabeel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Nasvin Nabeel",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
